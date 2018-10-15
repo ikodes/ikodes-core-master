@@ -2,7 +2,7 @@
 /*
 Plugin Name: ikodes Core Module
 Plugin URI: http://ikodes.net/
-Description: ikdoes Core Module For Wordpress & Woocommerce. Powered by WooCommerce and ikodes Technology
+Description: ikdoes Core Module For Wordpress & Woocommerce. Powered by ikodes Technology
 Author: ikodes Technology
 Version: 1.0.1
 Text Domain: ikodes Core modules
